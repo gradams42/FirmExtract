@@ -1,0 +1,12 @@
+# requirements.txt
+setuptools
+rich
+jefferson
+pathlib>=1.0.1
+argparse>=1.4.0
+json
+re
+os
+datetime
+subprocess
+# Other standard libraries used (json, re, os, datetime, subprocess) are part of Python's standard library
